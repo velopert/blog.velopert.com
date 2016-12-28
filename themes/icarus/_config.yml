@@ -27,9 +27,8 @@ customize:
     favicon: /css/images/favicon.ico # path to favicon
     social_links:
         github: http://github.com/velopert/blog.velopert.com
-        twitter: /
         facebook: https://facebook.com/velopert
-        dribbble: /
+        youtube: https://www.youtube.com/channel/UCmMgRlN-3GKQ_CH7cOtLdvg
         rss: /atom.xml
     social_link_tooltip: true # enable the social link tooltip, options: true, false
 
@@ -40,7 +39,6 @@ widgets:
     - archive
     - tag
     - tagcloud
-    - links
 
 # Search
 search:
